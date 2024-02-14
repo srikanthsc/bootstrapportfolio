@@ -1,5 +1,5 @@
 {
-    "title": "Stylish Portfolio",
+    "title": "Srikanth's Portfolio",
     "name": "startbootstrap-stylish-portfolio",
     "version": "6.0.6",
     "scripts": {
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A stylish portfolio HTML template built with Bootstrap",
+    "description": "A Srikanth's Portfolio HTML template built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -22,19 +22,8 @@
         "template"
     ],
     "homepage": "https://startbootstrap.com/theme/stylish-portfolio",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
     "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git"
-    },
     "dependencies": {
         "bootstrap": "5.2.3"
     },
