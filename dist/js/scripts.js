@@ -1,5 +1,5 @@
 /*!
-* Start Bootstrap - Srikanth's Portfolio v6.0.6 (https://startbootstrap.com/theme/stylish-portfolio)
+* Start Bootstrap - Srikanth's Portfolio v6.0.6 (https://srikanthsc.github.io/bootstrapportfolio/)
 * Copyright 2013-2024 SC
 * Licensed under MIT (https://github.com/bootstrapportfolio/startbootstrap-stylish-portfolioz/blob/master/LICENSE)
 */
